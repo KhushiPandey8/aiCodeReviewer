@@ -1,1 +1,1 @@
-🚀 AI Code Reviewer 🧑‍💻🔍 A smart AI-powered code review tool 🤖✨ that analyzes, suggests improvements, and enhances code quality! Supports multiple languages 📝⚡ for efficient debugging & optimization. 🚀💡
+AI Code Reviewer is a web application that utilizes Google's Gemini Flash 2.0 API to analyze and review code snippets. Built with React.js for the frontend and Node.js for the backend, it provides an AI-driven code review experience.. Update All the contents
